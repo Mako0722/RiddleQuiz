@@ -33,4 +33,8 @@ Carthage/Build/
 *.swp
 xcuserdata/
 *.moved-aside
+<<<<<<< HEAD
 !.gitkeep
+=======
+!.gitkeep
+>>>>>>> QuizAppUI
